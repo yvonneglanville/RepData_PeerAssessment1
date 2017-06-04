@@ -2,7 +2,7 @@
 title: "Week2_Peer_Graded_Assignment.Rmd"
 author: "Yvonne Glanville"
 date: "June 3, 2017"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
